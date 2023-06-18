@@ -10,7 +10,7 @@ redirect_from:
 
 I am an incoming Assistant Professor in the Department of Statistics at Florida State University.
 
-My research focuses on statistical process control, data stream onitoring, sequential learning and more.
+My research focuses on statistical process control, data stream onitoring, sequential learning and machine learning in process monitoring.
 
 Employment
 ======
@@ -19,6 +19,6 @@ Employment
 
 Education
 ======
-- Univeristy of Florida 
-- Columbia University
-- The Ohio State University
+- Ph.D. in Statistics, Univeristy of Florida (2023) 
+- M.S. in Operations Research, Columbia University (2019)
+- B.S. in Mathematics, The Ohio State University (2017)
