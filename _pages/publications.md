@@ -5,21 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
+ * indicates corresponding authors
 
 2023 or accepted
 ======
 * **Xie, X.** and Qiu, P. ``A general framework for robust monitoring 
-      of multivariate processes”, in press.
+      of multivariate processes”, *Technometrics*, in press.
 
 * **Xie, X.** and Qiu, P. (2023), ``Control charts for dynamic process
      monitoring with an application to air pollution surveillance,'' *Annals of
      Applied Statistics*,  **17**, 47--66. 
      
+* **Xie, X.** and Qiu, P. (2023), ``Dynamic process
+     monitoring using machine learning based control charts,'' 
+     In *Artificial Intelligence for Smart Manufacturing: Methods, Applications, and 
+     Challenges* (editted by Kim Phuc Tran), 65--82,
+     Springer.     
      
 2022
 ======
 
-* Qiu, P. and **Xie, X.** (2022), ``Transparent sequential learning for
+* Qiu, P. and **Xie, X.*** (2022), ``Transparent sequential learning for
      statistical process control of serially correlated data,'' *Technometrics*,
      **64**, 487--501. 
 
