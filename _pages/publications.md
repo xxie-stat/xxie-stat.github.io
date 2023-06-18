@@ -10,7 +10,8 @@ author_profile: true
 2023 or accepted
 ======
 * **Xie, X.** and Qiu, P. ``A general framework for robust monitoring 
-      of multivariate processes”, *Technometrics*, in press.
+      of multivariate processes”, *Technometrics*, in press. 
+      (http://academicpages.github.io/files/paper1.pdf)
 
 * **Xie, X.** and Qiu, P. (2023), ``Control charts for dynamic process
      monitoring with an application to air pollution surveillance,'' *Annals of
