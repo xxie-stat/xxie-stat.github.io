@@ -19,13 +19,13 @@ My research focuses on data stream monitoring, sequential learning, statistical 
 
 Employment
 ======
-- (Aug. 2023 - Present) Assistant Professor (tenure-track)
-- Department of Statistics, Florida State University
+#- (Aug. 2023 - Present) Assistant Professor (tenure-track)
+#- Department of Statistics, Florida State University
 
 Education
 ======
-- Univeristy of Florida
-- Columbia University 
-- The Ohio State Univeristy
+#- Univeristy of Florida
+#- Columbia University 
+#- The Ohio State Univeristy
 
 
