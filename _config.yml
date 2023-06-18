@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Welcome to Xiulin's Homepage"
 title_separator          : "-"
 name                     : &name "Xiulin Xie"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://xxie-stat.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # "academicpages/academicpages.github.io"
+repository               : "https://xxie-stat.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiulin Xie"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : ""
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
