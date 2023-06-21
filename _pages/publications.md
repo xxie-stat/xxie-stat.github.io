@@ -9,7 +9,7 @@ author_profile: true
 
 2023 or accepted
 ======
-* **Xie, X.** and Qiu, P. ``A general framework for robust monitoring 
+* **Xie, X.** and Qiu, P. (2023) ``A general framework for robust monitoring 
       of multivariate processes”, *Technometrics*, in press. 
       
 
