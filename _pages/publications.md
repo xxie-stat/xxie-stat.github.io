@@ -9,6 +9,11 @@ author_profile: true
 
 2023 or accepted
 ======
+
+* **Xie, X.** and Qiu, P. (2023) ``Online monitoring of air quality
+  using PCA-based sequential learning”, *Annals of
+     Applied Statistics*, in press. 
+
 * **Xie, X.** and Qiu, P. (2023) ``A general framework for robust monitoring 
       of multivariate processes”, *Technometrics*, in press. 
       
