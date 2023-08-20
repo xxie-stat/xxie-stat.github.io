@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professor in the Department of Statistics at Florida State University.
+I am an Assistant Professor in the Department of Statistics at Florida State University.
 
 My research focuses on statistical process control, data stream monitoring, sequential learning and machine learning in process monitoring.
 
 Employment
 ======
-- (Incoming) Assistant Professor (tenure-track) \\
+- Assistant Professor (tenure-track) \\
  Department of Statistics, Florida State University
 
 Education
