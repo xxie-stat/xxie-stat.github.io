@@ -22,3 +22,9 @@ Education
 - Ph.D. in Biostatistics, Univeristy of Florida, 2019-2023 
 - M.S. in Operations Research, Columbia University, 2017-2019
 - B.S. in Mathematics, The Ohio State University, 2013-2017
+
+Openings
+======
+I am currently seeking one or two highly motivated graduate students to fill Research Assistant positions. 
+If you are interested, please reach out via email(xx23d@fsu.edu). 
+Additionally, you are welcome to visit my office at OSB 403.
