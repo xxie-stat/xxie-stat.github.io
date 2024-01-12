@@ -7,7 +7,7 @@ author_profile: true
 
 * Names with * indicates corresponding authors
 
-2023 or accepted
+2024 or accepted
 ======
 
 * **Xie, X.** and Qiu, P. (2023) ``Online monitoring of air quality
@@ -17,6 +17,9 @@ author_profile: true
 * **Xie, X.** and Qiu, P. (2023) ``A general framework for robust monitoring 
       of multivariate processes”, *Technometrics*, in press. 
       
+  
+2023
+======
 
 * **Xie, X.** and Qiu, P. (2023), ``Control charts for dynamic process
      monitoring with an application to air pollution surveillance,'' *Annals of
@@ -30,6 +33,7 @@ author_profile: true
      Springer.     
      [pdf](http://xxie-stat.github.io/files/XQ2023chapter.pdf)
   
+
 2022
 ======
 
