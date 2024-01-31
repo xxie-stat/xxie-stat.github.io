@@ -17,8 +17,8 @@ author_profile: true
 * **Xie, X.** and Qiu, P. (2024), ``A general framework for robust monitoring 
       of multivariate processes”, *Technometrics*, in press. 
 
-* Wang, Y., **Xie, X.**, and Qiu, P. (2024), ``Nonparametric Online Monitoring of
-  Dynamic Networks”, *Journal of Quality Technology*, in press. 
+* Wang, Y., **Xie, X.**, and Qiu, P. (2024), ``Nonparametric online monitoring of
+  dynamic networks”, *Journal of Quality Technology*, in press. 
   
 2023
 ======
