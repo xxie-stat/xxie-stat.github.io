@@ -25,6 +25,6 @@ Education
 
 Openings
 ======
-I am currently seeking one or two highly motivated graduate students to fill Research Assistant positions. 
+I am currently seeking one or two highly motivated Ph.D. students. 
 If you are interested, please reach out via email(xx23d@fsu.edu). 
 Additionally, you are welcome to visit my office at OSB 403.
