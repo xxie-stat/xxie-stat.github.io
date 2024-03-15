@@ -12,10 +12,10 @@ author_profile: true
 
 * **Xie, X.** and Qiu, P. (2024), ``Online monitoring of air quality
   using PCA-based sequential learning”, *Annals of
-     Applied Statistics*, in press. 
+     Applied Statistics*, **18**, 600--625. 
 
 * **Xie, X.** and Qiu, P. (2024), ``A general framework for robust monitoring 
-      of multivariate processes”, *Technometrics*, in press. 
+      of multivariate processes”, *Technometrics*, **66**, 40--54.
 
 * Wang, Y., **Xie, X.**, and Qiu, P. (2024), ``Nonparametric online monitoring of
   dynamic networks”, *Journal of Quality Technology*, in press. 
