@@ -9,7 +9,6 @@ author_profile: true
 
 2024 or accepted
 ======
-
 * **Xie, X.** and Qiu, P. (2024), ``Online monitoring of air quality
   using PCA-based sequential learning”, *Annals of
      Applied Statistics*, **18**, 600--625. 
@@ -19,6 +18,10 @@ author_profile: true
 
 * Wang, Y., **Xie, X.**, and Qiu, P. (2024), ``Nonparametric online monitoring of
   dynamic networks”, *Journal of Quality Technology*, in press. 
+
+* Yi, F., **Xie, X.**, and Qiu, P. (2024), ``A Change-Point-Detection Chart for
+  Detecting Process Mean Drifts with an Application for Monitoring the Shape of
+  the Salton Sea”, in *Frontiers in Statistical Quality Control 14*, Springer, in press.  
   
 2023
 ======
