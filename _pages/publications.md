@@ -19,9 +19,9 @@ author_profile: true
 * Wang, Y., **Xie, X.**, and Qiu, P. (2024), ``Nonparametric online monitoring of
   dynamic networks”, *Journal of Quality Technology*, in press. 
 
-* Yi, F., **Xie, X.**, and Qiu, P. (2024), ``A Change-Point-Detection Chart for
-  Detecting Process Mean Drifts with an Application for Monitoring the Shape of
-  the Salton Sea”, in *Frontiers in Statistical Quality Control 14*, Springer, in press.  
+* Yi, F., **Xie, X.**, and Qiu, P. (2024), ``A change-point-detection chart for
+  detecting process mean drifts with an application for monitoring the shape of
+  the salton sea”, in *Frontiers in Statistical Quality Control 14*, Springer, in press.  
   
 2023
 ======
