@@ -23,7 +23,7 @@ Education
 - M.S. in Operations Research, Columbia University, 2017-2019
 - B.S. in Mathematics, The Ohio State University, 2013-2017
 
-<!---
+
 Openings
 ======
 I am currently seeking one or two highly motivated Ph.D. students. 
