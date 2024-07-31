@@ -17,7 +17,7 @@ author_profile: true
       of multivariate processes”, *Technometrics*, **66**, 40--54.
 
 * Wang, Y., **Xie, X.**, and Qiu, P. (2024), ``Nonparametric online monitoring of
-  dynamic networks”, *Journal of Quality Technology*, in press. 
+  dynamic networks”, *Journal of Quality Technology*,  **56**, 214--243.
 
 * Yi, F., **Xie, X.**, and Qiu, P. (2024), ``A change-point-detection chart for
   detecting process mean drifts with an application for monitoring the shape of
