@@ -14,7 +14,7 @@ author_profile: true
   the salton sea”, in *Frontiers in Statistical Quality Control 14*, Springer, in press.
 
   
-2024 or accepted
+2024
 ======
 * **Xie, X.** and Qiu, P. (2024), ``Online monitoring of air quality
   using PCA-based sequential learning”, *Annals of
