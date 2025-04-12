@@ -9,6 +9,10 @@ author_profile: true
 
 2025 or accepted
 ======
+* **Xie, X.** (2025+), ``Adaptive LASSO-based robust multivariate
+  process monitoring and diagnostics,”  *Quality and
+   Reliability Engineering International*, in press.
+
 * Yi, F., **Xie, X.**, and Qiu, P. (2025), ``A change-point-detection chart for
   detecting process mean drifts with an application for monitoring the shape of
   the salton sea”, in *Frontiers in Statistical Quality Control 14*, Springer, in press.
