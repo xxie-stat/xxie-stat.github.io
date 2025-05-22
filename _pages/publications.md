@@ -13,6 +13,10 @@ author_profile: true
   process monitoring and diagnostics,”  *Quality and
    Reliability Engineering International*, in press.
 
+* **Xie, X.** (2025+), ``Statistical Methods for Dynamic Disease
+  Screening and Spatio-Temporal Disease Surveillance by Peihua Qiu,”
+  *Biometrics*, In press.
+
 * Yi, F., **Xie, X.**, and Qiu, P. (2025), ``A change-point-detection chart for
   detecting process mean drifts with an application for monitoring the shape of
   the salton sea”, in *Frontiers in Statistical Quality Control 14*, Springer, in press.
