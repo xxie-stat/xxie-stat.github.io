@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Names with * indicates corresponding authors
+* Names with * indicates current or former student
 
 2026 or accepted
 ======
-* ---Liao, R---, Yi, F, and **Xie, X.*** (2025+), ``Control charts for detecting linear drifts in multivariate process mean and covariance matrix”, *Applied Stochastic Models and Business and Industry*, in press.
+* Liao, R*, Yi, F, and **Xie, X.** (2025+), ``Control charts for detecting linear drifts in multivariate process mean and covariance matrix”, *Applied Stochastic Models and Business and Industry*, in press.
 
 * Yi, F., **Xie, X.**, and Qiu, P. (2025), ``A change-point-detection chart for
   detecting process mean drifts with an application for monitoring the shape of
@@ -18,14 +18,14 @@ author_profile: true
   
 2025
 ======
-* **Xie, X.*** (2025), ``An Adaptive CUSUM Chart for Robust Monitoring
+* **Xie, X.** (2025), ``An Adaptive CUSUM Chart for Robust Monitoring
   of Multivariate Processes”, *Journal of Quality Technology*, **57**, 398--414. 
 
-* **Xie, X.*** (2025), ``Adaptive LASSO-based robust multivariate
+* **Xie, X.** (2025), ``Adaptive LASSO-based robust multivariate
   process monitoring and diagnostics,”  *Quality and
    Reliability Engineering International*, **41**, 2279--2289. 
 
-* **Xie, X.*** (2025), ``Statistical Methods for Dynamic Disease
+* **Xie, X.** (2025), ``Statistical Methods for Dynamic Disease
   Screening and Spatio-Temporal Disease Surveillance by Peihua Qiu,”
   *Biometrics*.
   
@@ -62,7 +62,7 @@ author_profile: true
 2022
 ======
 
-* Qiu, P. and **Xie, X.*** (2022), ``Transparent sequential learning for
+* Qiu, P. and **Xie, X.** (2022), ``Transparent sequential learning for
      statistical process control of serially correlated data,'' *Technometrics*,
      **64**, 487--501.
   [pdf](http://xxie-stat.github.io/files/QX2022.pdf)
