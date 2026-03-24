@@ -9,7 +9,7 @@ author_profile: true
 
 2026 or accepted
 ======
-* Liao, R.#,  Yi, F, and **Xie, X.** (2026+), ``Control charts for detecting linear drifts in multivariate process mean and covariance matrix”, *Applied Stochastic Models and Business and Industry*, in press.
+* Liao, R.#,  Yi, F, and **Xie, X.** (2026+), ``Control charts for detecting linear drifts in multivariate process mean and covariance matrix”, *Applied Stochastic Models in Business and Industry*, in press.
 
 * Yi, F., **Xie, X.**, and Qiu, P. (2026), ``A change-point-detection chart for
   detecting process mean drifts with an application for monitoring the shape of
