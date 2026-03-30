@@ -20,8 +20,8 @@ author_profile: true
   
 2025
 ======
-* **Xie, X.** (2025), ``An Adaptive CUSUM Chart for Robust Monitoring
-  of Multivariate Processes”, *Journal of Quality Technology*, **57**, 398--414. 
+* **Xie, X.** (2025), ``An adaptive CUSUM chart for robust monitoring
+  of multivariate processes”, *Journal of Quality Technology*, **57**, 398--414. 
 
 * **Xie, X.** (2025), ``Adaptive LASSO-based robust multivariate
   process monitoring and diagnostics,”  *Quality and
