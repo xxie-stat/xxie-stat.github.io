@@ -13,7 +13,7 @@ author_profile: true
 
 * Liao, R.#,  Liu, R, and **Xie, X.** (2026+), ``Adaptive CUSUM chart for drift detection in Poisson processes with time-varying sample sizes'”, *Quality and
    Reliability Engineering International*, in press.
-* 
+ 
 * Liao, R.#,  Yi, F, and **Xie, X.** (2026+), ``Control charts for detecting linear drifts in multivariate process mean and covariance matrix”, *Applied Stochastic Models in Business and Industry*, in press.
 
 * Yi, F., **Xie, X.**, and Qiu, P. (2026), ``A change-point-detection chart for
