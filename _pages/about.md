@@ -23,5 +23,11 @@ Education
 - M.S. in Operations Research, Columbia University, 2017-2019
 - B.S. in Mathematics, The Ohio State University, 2013-2017
 
+Openings
+======
+- If you are a current Ph.D. student in Statistics or Biostatistics at Florida State University 
+and are interested in my research, please feel free to reach out to me via email at xx23d@fsu.edu.
 
-
+- If you are a prospective student outside FSU who is interested in our graduate program, please
+apply through the FSU graduate admissions process. Graduate admissions are handled through the
+program’s admissions process, and I am not able to directly admit or recruit individual graduate students.
