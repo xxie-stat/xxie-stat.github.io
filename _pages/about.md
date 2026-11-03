@@ -29,5 +29,4 @@ Openings
 and are interested in my research, please feel free to reach out to me via email.
 
 - If you are a prospective student outside FSU who is interested in our graduate program, please
-apply through the FSU graduate admissions process. Graduate admissions are handled through the
-program’s admissions process.
+apply through the FSU graduate admissions process. 
